@@ -1,0 +1,10 @@
+7-edik sorban az N_ELEMENTS (tomb merete) el volt gepelve
+8-adik sorban az std::out altal kiirando szoveg aposztrofok (') koze volt helyezve idezojelek helyett (")
+8-adik sor vegerol lemaradt a pontosvesszo (;)
+9-edik sorban a for ciklusban nem volt meghatarozva, hogy meddig ismetlodjon,
+illetve a lepesek nagysaga sem
+11-edik sor vegerol lemaradt a pontosvesszo (;)
+13-adik sorban a for ciklusban nem volt meghatarozva, hogy meddig ismetlodjon
+15-odik sorban lemaradt az ertek kiiratasa
+18-adik sorban nem adtunk kezdoerteket az "atlag" valtozonak
+21-edik sor vegerol lemaradt a pontosvesszo (;)
